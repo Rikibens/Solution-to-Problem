@@ -1,0 +1,5 @@
+﻿  Quirksome Squares.cpp
+C:\Users\vales\OneDrive\Desktop\C++\Quirksome Squares\Quirksome Squares\Quirksome Squares.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vales\OneDrive\Desktop\C++\Quirksome Squares\Quirksome Squares\Quirksome Squares.cpp(15,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vales\OneDrive\Desktop\C++\Quirksome Squares\Quirksome Squares\Quirksome Squares.cpp(18,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vales\OneDrive\Desktop\C++\Quirksome Squares\Quirksome Squares\Quirksome Squares.cpp(19,17): error C2143: syntax error: missing ';' before '*='

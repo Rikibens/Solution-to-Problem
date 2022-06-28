@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Largest Perimeter Triangle", "Largest Perimeter Triangle\Largest Perimeter Triangle.vcxproj", "{BAC5E088-22FA-47D4-934A-4900A03BCD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC5E088-22FA-47D4-934A-4900A03BCD89}.Debug|x64.ActiveCfg = Debug|x64
+		{BAC5E088-22FA-47D4-934A-4900A03BCD89}.Debug|x64.Build.0 = Debug|x64
+		{BAC5E088-22FA-47D4-934A-4900A03BCD89}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAC5E088-22FA-47D4-934A-4900A03BCD89}.Debug|x86.Build.0 = Debug|Win32
+		{BAC5E088-22FA-47D4-934A-4900A03BCD89}.Release|x64.ActiveCfg = Release|x64
+		{BAC5E088-22FA-47D4-934A-4900A03BCD89}.Release|x64.Build.0 = Release|x64
+		{BAC5E088-22FA-47D4-934A-4900A03BCD89}.Release|x86.ActiveCfg = Release|Win32
+		{BAC5E088-22FA-47D4-934A-4900A03BCD89}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A64CE69A-5040-40CE-BF4F-9232E24D889A}
+	EndGlobalSection
+EndGlobal
